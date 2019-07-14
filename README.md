@@ -1,7 +1,7 @@
 # QGIS-Machine Learning
 
 
-El complemento Dzetsaka (https://github.com/lennepkade/dzetsaka) sirve para hacer clasificaciones del territorio con imagenes georeferenciadas de las cuales se tengan muestras de territorio clasificadas. Así podremos automaticamente clasificar el resto del 
+El complemento Dzetsaka (https://github.com/lennepkade/dzetsaka) de QGIS nos sirve para hacer clasificaciones del territorio con imagenes georeferenciadas de las cuales se tengan muestras de territorio clasificadas. Así podremos automaticamente clasificar el resto del 
 territorio que nos interese.
 
 # INTRODUCCION
