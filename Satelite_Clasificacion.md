@@ -4,8 +4,8 @@ Hoy en dia disponer de datos satelitales es totalmente facil.
 Estamos hablando de areas geograficas, series temporales de imagenes satelitales, 
 imagenes de muy alta resolución espacial e imagenes hiperepectrales.
 
-Algunas de ellas son gratis a traves de programas de libre acceso
-como Copernicus y Lansat Open Archive.
+**Algunas de ellas son gratis a traves de programas de libre acceso
+como Copernicus y Lansat Open Archive.**
 
 Una de las aplicaciones de esta data es la clasificación de píxels en términos
 de uso de suelo, cobertura terrestre, cambios de cobertura.
@@ -14,12 +14,20 @@ Esta gran cantidad de datos en tiempo y espacio permite desarrollar aplicaciones
 ## Los algoritmos convencionale definidos para sensores remotos en pequeñas o moderadas dimensiones no escalan bien.
 
 
-Special Issue in Classification and Feature Extraction for Remote Sensing Image Analysis
-Dr. Mathieu Fauvel Dr. Jordi Inglada Dr. Marco Chini Dr. Fabio Pacifici Guest Editors.
-Topics:
-Spatial, temporal and spectral feature extraction, data-driven feature extraction, classification of multimodal 
-remote sensing data for any thematic application (urban, agricultural or ecological ones) and for any scales, 
-from locals to global ones.
+Estos temas son vistos en la charla "Special Issue in Classification and Feature Extraction for Remote Sensing Image Analysis",
+llevada a cabo por los investigadores 
+
+    Dr. Mathieu Fauvel 
+    Dr. Jordi Inglada 
+    Dr. Marco Chini 
+    Dr. Fabio Pacifici Guest Editors.
+    
+### Temas vistos:
+
+    Spatial, 
+    Temporal and spectral feature extraction, 
+    Data-driven feature extraction, 
+    Classification of multimodal remote sensing data for any thematic application (urban, agricultural or ecological ones) and for any scales, from locals to global ones.
 
 
 Para obtener la imagen ahora existen varias opciones, por mi parte lo hice a través 
