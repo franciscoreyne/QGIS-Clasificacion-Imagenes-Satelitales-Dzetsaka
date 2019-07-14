@@ -1,8 +1,8 @@
 # QGIS-ML
 
 
-Dzetsaka (https://github.com/lennepkade/dzetsaka) sirve para hacer clasificaciones del territorio dentro de imagenes georeferenciadas de las cuales se tengan
-muetras de territorio clasificados.
+Dzetsaka (https://github.com/lennepkade/dzetsaka) sirve para hacer clasificaciones del territorio en imagenes georeferenciadas de las cuales se tengan
+muestras de territorio clasificados.
 
 INTRODUCCION
 Haremos una clasificacion del territorio usando el ejemplo que provee dzetsaka (https://github.com/lennepkade/dzetsaka/archive/docs.zip). 
