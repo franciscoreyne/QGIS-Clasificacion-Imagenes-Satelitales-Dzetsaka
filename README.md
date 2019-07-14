@@ -136,8 +136,9 @@ Asiganmos un color a cada categoria.
 ### **Yo las dejé así:**
 
 
-Forest 1 verde. Agriculture 2 cafe. Grey 3 gris. "Water": 4 celeste. "Buildings": 5 negro. 
+Forest 1 verde. Agriculture 2 cafe. Grey 3 gris. Water 4 celeste. Buildings 5 negro. División 6 rojo.
 
+<a href="https://github.com/franciscoreyne/QGIS-ML/blob/master/QGIS_ML-Dzetsaka.png"><img src="https://github.com/franciscoreyne/QGIS-ML/blob/master/QGIS_ML-Dzetsaka.png" /></a>
 
 
 
