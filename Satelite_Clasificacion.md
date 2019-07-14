@@ -29,12 +29,13 @@ llevada a cabo por los investigadores
     Data-driven feature extraction, 
     Classification of multimodal remote sensing data for any thematic application (urban, agricultural or ecological ones) and for any scales, from locals to global ones.
 
+# CÓMO PARTIR EN EL ANALISIS DE DATOS SATELITALES.
 
-Para obtener la imagen ahora existen varias opciones, por mi parte lo hice a través 
-de los datos disponibles a través del Amazon Web Services (AWS) 
+## Obtención de la Data
+Para obtener las imagenes existen varias opciones, existen los datos disponibles por Amazon Web Services (AWS) 
 http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/
 
-y las imágenes pueden ser descargadas con el buscador Sentinel Image browser. 
+estas imágenes pueden ser descargadas con el buscador Sentinel Image browser. 
 http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/image-browser/
 
 Les recomiendo el vídeo  Tutorial - [Como descargar Sentinel 2 por grillas], como una buena guía de descarga.
