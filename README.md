@@ -67,9 +67,9 @@ Despues debemos seleccionar la columna que contiene la clase en números.*
 
 *Para ver cual está en números vamos a hacer click derecho sobre el shapefile "train" y veremos que tiene dos variables.
 Está la variable "Type" que indica el tipo de territorio en texto mientras que la variable "Class" lo indica en números.* 
-## Por lo tanto seleccionamos la columna Class por ser de tipo numérico.
+**Por lo tanto seleccionamos la columna Class por ser de tipo numérico.
 
-## Ya tenemos seleccionado lo que nos pide DZETSAKA: map, train y Class.
+**Ya tenemos seleccionado lo que nos pide DZETSAKA: map, train y Class.
 
 
 
@@ -94,12 +94,12 @@ El *'Clasifier'* corresponde al **modelo de aprendizaje que utizará Dzetsaka pa
 
 
 
-### Tenemos los siguientes modelos de clasificacion:
+### Tenemos los siguientes modelos de clasificacion en Dzetsaka:
 
-*-GMM: Gaussian Mixture Model
--RF: Random Forest
--SVM: Support Vector Machines.
--KNN: K-Nearest Neighbors.*
+#### GMM: Gaussian Mixture Model
+#### RF: Random Forest
+#### SVM: Support Vector Machines.
+#### KNN: K-Nearest Neighbors.*
 
 
 
