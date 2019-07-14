@@ -29,8 +29,10 @@ OsGeo Shell y Scikit-learn:
 Para hacer corer dzetsaja necesitamos OsGeo Shell que se usa para instalar scikit-learn en QGIS.
 Instalamos osgeo4w (disponible en http://trac.osgeo.org/osgeo4w/)
 Abrimos OsGeo shell en modo administrador y ejecutamos los siguientes comandos:
-py3_env.bat
-pip install scikit-learn
+
+#py3_env.bat
+
+#pip install scikit-learn
 
 DZETSAKA:
 En QGIS vamos a Complementos y descargamos el complemento "dzetsaka : Classification tool".
@@ -91,8 +93,10 @@ Forest 1 verde. Agriculture 2 cafe. Grey 3 gris. "Water": 4 celeste. "Buildings"
 Siguiente mision: https://www.karasiak.net/dzetsaka-how-to-make-your-first-classification-in-qgis/
 
 
+---------------------------------------
+(OPCIONAL) 
 
-(OPCIONAL) ------------------------------------- 
+
 Podemos modificar el shapefile para agregar nuevas categorias si lo quisieramos. Yo agregué dos categorias más. 
 Una para las lineas rojas que dividen ciertas zonas del mapa y otras zonas que parecen ser bosques más oscuros.
 Cree distintos polígonos y les asigné a cada uno un nombre comun. Llene segun esto los datos de "Type" (de tipo texto)
