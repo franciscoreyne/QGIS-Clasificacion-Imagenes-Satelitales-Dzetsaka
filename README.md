@@ -1,10 +1,10 @@
-# QGIS-Machine Learning
+# QGIS - Ejemplo de Clasificación con Machine Learning usando Dzetsaka
 
 
 El complemento Dzetsaka (https://github.com/lennepkade/dzetsaka) de QGIS nos sirve para hacer clasificaciones del territorio con imagenes georeferenciadas de las cuales se tengan muestras de territorio clasificadas. Así podremos automaticamente clasificar el resto del 
 territorio que nos interese.
 
-# INTRODUCCION
+# INTRODUCCION AL EJEMPLO
 
 Haremos una clasificacion del territorio usando el ejemplo que provee dzetsaka (https://github.com/lennepkade/dzetsaka/archive/docs.zip). 
 Dentro de la carpeta sample se encuentran el archivo (demo_dzetsaka.qgs) que cargaremos como proyecto en QGIS.
