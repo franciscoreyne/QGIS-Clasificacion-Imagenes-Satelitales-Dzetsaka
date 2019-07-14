@@ -48,7 +48,7 @@ Abrimos OsGeo shell en modo administrador y ejecutamos los siguientes comandos:
     pip install scikit-learn
     
 
-
+**Scikit-learn nos permitirá realizar las modelaciones con KNN,RF y SVM.**
 
 
 
