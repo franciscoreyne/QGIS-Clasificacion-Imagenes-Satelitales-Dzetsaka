@@ -54,7 +54,7 @@ En QGIS vamos a Complementos y descargamos el complemento "dzetsaka : Classifica
 
 ## PARTE 2. CLASIFICACION DE IMAGENES.
 
-
+### Carga del Proyecto
 En QGIS abrimos nuestro proyecto del ejemplo de dzetsaka (https://github.com/lennepkade/dzetsaka/archive/docs.zip) 
 proyecto Qgis llamado "demo_dzetsaka.qgs" dentro de la carpeta sample.
 
@@ -74,6 +74,7 @@ Está la variable "Type" que indica el tipo de territorio en texto mientras que 
 
 
 
+### Ejecución de la Clasificación
 
 Antes de hacer click sobre *"Perform the clasification"*, presionamos sobre la pestaña desplegable **'Optional'.**
 
@@ -94,18 +95,19 @@ El *'Clasifier'* corresponde al **modelo de aprendizaje que utizará Dzetsaka pa
 
 
 
-### Tenemos los siguientes modelos de clasificacion en Dzetsaka:
+###  Selección del modelo de clasificacion:
 
-#### GMM: Gaussian Mixture Model
-#### RF: Random Forest
-#### SVM: Support Vector Machines.
-#### KNN: K-Nearest Neighbors.*
+#### Tenemos los siguientes modelos de clasificación en Dzetsaka:
+        GMM: Gaussian Mixture Model.
+        RF: Random Forest.
+        SVM: Support Vector Machines.
+        KNN: K-Nearest Neighbors.
 
 
 
 Seleccionamos GMM y cerramos esa ventana. Ejecutamos la clasificación presionando sobre "Perform the clasification".
 Nos deberan aparecer dos objetos en el visor de capas de QGIS. 
-**Una llamada map_class (formato GeoTIFF) y otra llamada CMM1 (formato GeoTIFF).**
+**El primero se llama map_class (formato GeoTIFF) y el otro se llama CMM1 (formato GeoTIFF).**
 
 
 
