@@ -3,14 +3,20 @@
 
 El complemento Dzetsaka (https://github.com/lennepkade/dzetsaka) de QGIS nos sirve para hacer clasificaciones del territorio con imagenes georeferenciadas de las cuales se tengan muestras de territorio clasificadas. Así podremos automaticamente clasificar el resto del 
 territorio que nos interese.
+<a href="https://github.com/franciscoreyne/QGIS-ML/blob/master/QGIS_ML-Dzetsaka0.png?raw=true"><img src="https://github.com/franciscoreyne/QGIS-ML/blob/master/QGIS_ML-Dzetsaka0.png?raw=true" /></a>
+
+
 
 # INTRODUCCION AL EJEMPLO
+
+
 
 Haremos una clasificacion del territorio usando el ejemplo que provee dzetsaka (https://github.com/lennepkade/dzetsaka/archive/docs.zip). 
 Dentro de la carpeta sample se encuentran el archivo (demo_dzetsaka.qgs) que cargaremos como proyecto en QGIS.
 Para hacer una clasificacion con dzetsaka se necesitan dos cosas, un raster y un shapefile. 
 El shapefile debe contener las categorias que clasificamos como variables numericas. Debemos considerar que Dzetsaka no entiende las variables tipo texto.
 Por lo que debemos transformar nuestras variables nominales u ordinales que estén en texto en números (Tabla de atributos del shapefile).
+
 
 Necesitaremos instalar (en WINDOWS):
 - QGIS
