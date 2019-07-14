@@ -36,9 +36,9 @@ Para hacer corer dzetsaja necesitamos OsGeo Shell que se usa para instalar sciki
 Instalamos osgeo4w (disponible en http://trac.osgeo.org/osgeo4w/)
 Abrimos OsGeo shell en modo administrador y ejecutamos los siguientes comandos:
         
-    *py3_env.bat
+    py3_env.bat
 
-    *pip install scikit-learn
+    pip install scikit-learn
     
 
 
