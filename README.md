@@ -67,9 +67,9 @@ Despues debemos seleccionar la columna que contiene la clase en números.*
 
 *Para ver cual está en números vamos a hacer click derecho sobre el shapefile "train" y veremos que tiene dos variables.
 Está la variable "Type" que indica el tipo de territorio en texto mientras que la variable "Class" lo indica en números.* 
-**Por lo tanto seleccionamos la columna Class por ser de tipo numérico.
+**Por lo tanto seleccionamos la columna Class por ser de tipo numérico.**
 
-**Ya tenemos seleccionado lo que nos pide DZETSAKA: map, train y Class.
+**Ya tenemos seleccionado lo que nos pide DZETSAKA: map, train y Class.**
 
 
 
@@ -77,8 +77,8 @@ Está la variable "Type" que indica el tipo de territorio en texto mientras que 
 
 Antes de hacer click sobre *"Perform the clasification"*, presionamos sobre la pestaña desplegable **'Optional'.**
 
-*Seleccionamos las opciones "Save matrix" (guardamos como CMM1.csv) y "Confidence map" (guardamos como CMM1.tif). 
-Estas dos opciones nos permitiran evaluar los resultados de nuestros modelos.*
+**Seleccionamos las opciones "Save matrix" (guardamos como CMM1.csv) y "Confidence map" (guardamos como CMM1.tif). 
+Estas dos opciones nos permitiran evaluar los resultados de nuestros modelos.**
 
 
 
