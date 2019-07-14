@@ -35,15 +35,12 @@ Descargamos e instalamos QGIS.  Instalador autónomo de QGIS Version 3.8 (64 bit
 Para hacer corer dzetsaja necesitamos OsGeo Shell que se usa para instalar scikit-learn en QGIS.
 Instalamos osgeo4w (disponible en http://trac.osgeo.org/osgeo4w/)
 Abrimos OsGeo shell en modo administrador y ejecutamos los siguientes comandos:
+        
+    *py3_env.bat
 
-    function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-#*py3_env.bat
+    *pip install scikit-learn
+    
 
-#*pip install scikit-learn
 
 
 
