@@ -5,6 +5,9 @@
 >Estos datos corresponden a información sobre areas geograficas, imagenes satelitales en series temporales, 
 >imagenes de muy alta resolución espacial e imagenes hiperepectrales.
 
+
+<a href="https://github.com/franciscoreyne/QGIS-ML/blob/master/CLASlite%20Workflow.jpg"><img src="https://github.com/franciscoreyne/QGIS-ML/blob/master/CLASlite%20Workflow.jpg" /></a>
+
 ## **Algunas de ellas son gratis a traves de programas de libre acceso como Copernicus y Lansat Open Archive.**
 
 >Una de las aplicaciones de esta data es la clasificación de píxels en términos
