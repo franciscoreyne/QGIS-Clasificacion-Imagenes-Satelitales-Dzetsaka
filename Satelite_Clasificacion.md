@@ -169,3 +169,52 @@ http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/image-browser/
     https://roda.sentinel-hub.com/sentinel-s2-l1c/readme.html
 
  ------------------------------------
+
+Links relacionados:
+
+## Complementos QGIS para Clasificación Supervisada con Imágenes Sentinel-2
+https://carbajallosa.blogspot.com/2017/07/complementos-qgis-para-clasificacion.html
+
+**Tutorial - [Como descargar Sentinel 2 por grillas]
+ 
+        https://www.youtube.com/watch?v=3_Q96HzKt40
+        
+
+## Estimation and mapping of forest stand density, volume, and cover type using the k-nearest neighbors method.
+
+        https://www.sciencedirect.com/science/article/abs/pii/S0034425701002097
+        
+
+## Otros.
+https://www.karasiak.net/dzetsaka-how-to-make-your-first-classification-in-qgis/
+https://joseguerreroa.wordpress.com/2011/09/06/combinacion-de-bandas-landsat-usando-gdal/
+https://engineering.purdue.edu/~biehl/MultiSpec/download_win.html
+https://engineering.purdue.edu/~biehl/MultiSpec/tutorials/20180806_Nexus_Remote_Sensing_Exercise_Spanish.pdf
+http://geoapis.sourcepole.com/qgispyapi/qgsvectorlayer
+https://docs.qgis.org/3.4/en/docs/pyqgis_developer_cookbook/intro.html#python-plugins
+
+
+## Data.
+https://www.usgs.gov/land-resources/nli/landsat/data-tools
+https://www.usgs.gov/land-resources/eros/lcmap/lcmap-sample-products?qt-science_support_page_related_con=0#qt-science_support_page_related_con
+
+### AWS - SENTINEL 2
+https://aws.amazon.com/es/blogs/publicsector/complete-sentinel-2-archives-freely-available-to-users/
+https://registry.opendata.aws/
+https://registry.opendata.aws/sentinel-2/
+
+
+
+https://search.remotepixel.ca/#7.85/25.954/55.709
+
+### SAGA
+https://www.geosci-model-dev.net/8/1991/2015/
+***Normalised burn ratio Tutorial SAGA saga system for automated geoscientific analyses.
+
+        https://www.youtube.com/watch?v=HtWyf7QnzqA
+
+
+## Python y R
+https://kodu.ut.ee/~kmoch/geopython2018/lessons/L2/projections.html
+https://github.com/volaya
+http://geopandas.org/install.html
