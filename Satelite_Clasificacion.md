@@ -8,7 +8,7 @@
 
 <a href="https://github.com/franciscoreyne/QGIS-ML/blob/master/CLASlite%20Workflow.jpg"><img src="https://github.com/franciscoreyne/QGIS-ML/blob/master/CLASlite%20Workflow.jpg" /></a>
 
-## **Algunas de ellas son gratis a traves de programas de libre acceso como Copernicus y Lansat Open Archive.**
+## Algunas de estas fuentes de datos son gratis. Para tener acceso usamos Copernicus o Lansat Open Archive.
 
 >Una de las aplicaciones de esta data es la clasificación de píxels en términos
 >de uso de suelo, cobertura terrestre, cambios de cobertura.
@@ -57,7 +57,8 @@ llevada a cabo por los investigadores:
         https://sentinel.esa.int/web/sentinel/sentinel-data-access
         
 ## Tutorial para descargar imagenes satelitales
-**Video Tutorial https://www.youtube.com/watch?v=3_Q96HzKt40** *Obs: Desactualizado. AWS es de pago ahora.
+**Video Tutorial https://www.youtube.com/watch?v=3_Q96HzKt40** 
+*Observación: el video está desactualizado. AWS es de pago ahora.
 
 *Tambien existe la opcion de usar la data en la Nube. Ver **sentinel-data-access**.*
 ### Más información:
