@@ -61,10 +61,11 @@ llevada a cabo por los investigadores:
         
         https://scihub.copernicus.eu/dhus/#/home
         
-**Importante fijarse en el tamaño de los archivos que descarguemos. Hay de 7Gb, 800Mb, 600Mb.
-###Debemos presionar sobre el link "Download URL".
+**Importante fijarse en el tamaño de los archivos que descarguemos. Hay de 7Gb, 800Mb, 600Mb.**
 
-**Ejemplo de selección:
+### Debemos presionar sobre el link "Download URL".
+
+**Ejemplo de selección:**
 
     S2B_MSIL1C_20190714T153609_N0208_R111_T20VPJ_20190714T190344
     Download URL: https://scihub.copernicus.eu/dhus/odata/v1/Products('6e2962fb-2501-478c-9f11-7b3be62973d5')/$value
@@ -80,10 +81,10 @@ llevada a cabo por los investigadores:
 https://search.remotepixel.ca/#8.57/25.3266/55.3757
 Desde allí seleccionamos nuestra área y la banda que queremos descargar. Nos descargará la información en 
 formato TIF.
-**Seleccionaremos en este ejemplo la zona de Dubai por su escaza nubosidad y por su reconocimiento a nivel global.
+**Seleccionaremos en este ejemplo la zona de Dubai por su escaza nubosidad y por su reconocimiento a nivel global.**
 ### Descargaremos las bandas Red, Blue y Green (RGB) correspondientes a B2, B3 y B4.
 
-*Abrimos QGIS cargamos las imagenes TIF que se geolocalizan automaticamente.
+*Abrimos QGIS cargamos las imagenes TIF que se geolocalizan automaticamente.*
 
 
 
