@@ -195,6 +195,8 @@ https://docs.qgis.org/3.4/en/docs/pyqgis_developer_cookbook/intro.html#python-pl
 
 
 ## Data.
+https://gisgeography.com/free-satellite-imagery-data-list/
+
 https://www.usgs.gov/land-resources/nli/landsat/data-tools
 https://www.usgs.gov/land-resources/eros/lcmap/lcmap-sample-products?qt-science_support_page_related_con=0#qt-science_support_page_related_con
 
