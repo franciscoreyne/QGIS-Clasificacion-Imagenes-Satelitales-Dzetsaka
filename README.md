@@ -151,7 +151,7 @@ Forest 1 verde. Agriculture 2 cafe. Grey 3 gris. Water 4 celeste. Buildings 5 ne
 
 
 ## **Siguiente mision: **
-
+## DESCARGAR GRATIS DATOS SATELITALES DE NUESTRAS ZONAS DE INTERES.
 https://carbajallosa.blogspot.com/2017/07/
 
 
