@@ -5,18 +5,18 @@
 >Estos datos corresponden a información sobre areas geograficas, imagenes satelitales en series temporales, 
 >imagenes de muy alta resolución espacial e imagenes hiperepectrales.
 
-**Algunas de ellas son gratis a traves de programas de libre acceso
-como Copernicus y Lansat Open Archive.**
+## >**Algunas de ellas son gratis a traves de programas de libre acceso
+>como Copernicus y Lansat Open Archive.**
 
 >Una de las aplicaciones de esta data es la clasificación de píxels en términos
 >de uso de suelo, cobertura terrestre, cambios de cobertura.
 >Esta gran cantidad de datos en tiempo y espacio permite desarrollar aplicaciones a escalas globales. 
 
-## Los algoritmos convencionale definidos para sensores remotos en pequeñas o moderadas dimensiones no escalan bien.
+## >Los algoritmos convencionale definidos para sensores remotos en pequeñas o moderadas dimensiones no escalan bien.
 
 
 Estos temas son vistos en la charla "Special Issue in Classification and Feature Extraction for Remote Sensing Image Analysis",
-llevada a cabo por los investigadores 
+llevada a cabo por los investigadores: 
 
     Dr. Mathieu Fauvel 
     Dr. Jordi Inglada 
