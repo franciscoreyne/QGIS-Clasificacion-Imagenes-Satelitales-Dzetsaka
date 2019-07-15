@@ -91,7 +91,7 @@ formato TIF.
 
 ----------------------------------------------
 # Opcion 3.
-## Sentinel Hub
+## Sentinel Hub. ZIP.
 **En SentinelHub podremos ver los distintos satelites y las bandas que combinan para cada color o vista.
 
           https://apps.sentinel-hub.com/eo-browser/?lat=25.1670&lng=55.2530&zoom=11
@@ -105,7 +105,7 @@ formato TIF.
     Visualization: Previsualizamos nuestra elección.
     Pins
 
-*Si elegimos el link de AWS no saldrá un link no interpretable por nuestro navegador web
+*Si elegimos el link de AWS nos saldrá un link no interpretable por nuestro navegador web
 
         s3://sentinel-s2-l1c/tiles/39/R/ZH/2018/12/30/0
         
@@ -114,16 +114,26 @@ El link de copernicus nos descarga el mismo ZIP que en la opción 1. Por lo que 
 
 -----------------------------------------------
 
+
+-----------------------------------------------
+# OPCION GANADORA: Opción 2.
+# Remote Pixel. Archivos TIF.
+
+Una vez tengamos los archivos de imagen TIFF en bandas Red, Green y Blue las combinaremos en una sola para hacer nuestro
+aprendizaje automatico.
+
+## Inslatamos el MultiSpec
+https://engineering.purdue.edu/~biehl/MultiSpec/download_win.html
+
+
+
+
+------------------------------------------------
 # SHAPEFILES GRILLAS SATELITES
 **Si Necesitamos tener los shapefiles para QGIS de las grillas de coordenadas del satelite.**
         http://bit.ly/GrillaSentinel2
   **De allí sacamos el o los codigos de nuestra(s) area(s) de interés.
  ***Ejemplo: 20KMF, 20KMG.***
-
-
-
-
-
 
  ------------------------------------
  # ESTO YA NO FUNCIONA
