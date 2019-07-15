@@ -50,20 +50,6 @@ llevada a cabo por los investigadores:
 # Productos disponibles HOY y gratis de satelites Sentinel
 ----------------------------------------------
 ----------------------------------------------
-## Info extra
-### Aquí una hoja de información
-        https://sentinel.esa.int/documents/247904/1848117/Sentinel-2_Data_Products_and_Access
-### Pagina central de acceso a los datos Sentinel.
-        https://sentinel.esa.int/web/sentinel/sentinel-data-access
-        
-## Tutorial para descargar imagenes satelitales
-**Video Tutorial https://www.youtube.com/watch?v=3_Q96HzKt40** 
-*Observación: el video está desactualizado. AWS es de pago ahora.
-
-*Tambien existe la opcion de usar la data en la Nube. Ver **sentinel-data-access**.*
-### Más información:
-        https://scihub.copernicus.eu/
-----------------------------------------------------------------
 
 
 # Descargando la Data.
@@ -200,6 +186,22 @@ http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/image-browser/
     https://roda.sentinel-hub.com/sentinel-s2-l1c/readme.html
 
  ------------------------------------
+ ------------------------------------
+ ------------------------------------
+# Info extra
+### Aquí una hoja de información
+        https://sentinel.esa.int/documents/247904/1848117/Sentinel-2_Data_Products_and_Access
+### Pagina central de acceso a los datos Sentinel.
+        https://sentinel.esa.int/web/sentinel/sentinel-data-access
+        
+## Tutorial para descargar imagenes satelitales
+**Video Tutorial https://www.youtube.com/watch?v=3_Q96HzKt40** 
+*Observación: el video está desactualizado. AWS es de pago ahora.
+
+*Tambien existe la opcion de usar la data en la Nube. Ver **sentinel-data-access**.*
+### Más información:
+        https://scihub.copernicus.eu/
+----------------------------------------------------------------
 
 Links relacionados:
 
