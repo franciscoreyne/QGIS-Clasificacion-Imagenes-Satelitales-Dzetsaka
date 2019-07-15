@@ -34,14 +34,18 @@ llevada a cabo por los investigadores:
 
 # CÓMO PARTIR EN EL ANALISIS DE DATOS SATELITALES.
 
+Usaremos datos provenientes de satelites llamados Sentinels que son la la agencia europea espacial. 
 
+>Valen la pena los Satelites Sentinel de la ESA (European Space Agency) en comparaciòn a Landsat?
+>
+> Sentinel-2a y 2b tienen una visibilidad de 10 metros en la visible y near-infrared. Tiene 12 bandas espectrales y es gratis para las masas.
+> Sentinel-1 tiene Apertura Radar en Banda-C Sintetica (C-band Synthetic Aperture Radar) para el mundo completo.
+
+>Los satelites Sentinel entregan datos activos y pasivos de alta calidad para la Tierra completa.
+
+> El hub de Sentinel (Sentinels Scientific Data Hub) es el sitio oficial para las descargas.
 
 # MANOS A LA OBRA: Acceder gratis a la Data Sentinel vía Descargas.
-
-**Existe posibilidad de acceder a la data de Sentinel. Lo único que necesitaremos es registrarnos en la plataforma del programa de Copernicus.**
-
-        https://scihub.copernicus.eu/dhus/#/home
-        
 
         
 
@@ -58,8 +62,9 @@ llevada a cabo por los investigadores:
 
 # Opcion 1.
 ## Copernicus. Archivo Zip.
+**¿Cómo acceder a la data de Sentinel?. Lo único que necesitamos es registrarnos en la plataforma de Copernicus.**
 
-*En copernicus nos dirigimos a la zona o área geografica que nos interese y persionamos sobre el boton de Buscar.*
+*En copernicus nos dirigimos a la zona o área geografica que nos interese y presionamos sobre el boton "Buscar".*
         
         https://scihub.copernicus.eu/dhus/#/home
         
@@ -88,6 +93,25 @@ formato TIF.
 
 *Abrimos QGIS cargamos las imagenes TIF que se geolocalizan automaticamente.*
 
+
+## **Las bandas que podemos encontrar en esta plataforma son las siguientes:**
+
+    B1 - Coastal aerosol
+    B2 - Blue
+    B3 - Green
+    B4 - Red
+    B5 - Near Infrared
+    B6 - Shortwave Infrared 1
+    B7 - Shortwave Infrared 2
+    B8 - Panchromatic (15m)
+    B9 - Cirrus
+    B10 - Thermal Infrared 1
+    B11 - Thermal Infrared 2
+    BQA - Quality Assessment
+    MTL - Metadata
+
+
+<a href="https://github.com/franciscoreyne/QGIS-Clasificacion-Imagenes-Satelitales-Dzetsaka/blob/master/espectros.png"><img src="https://github.com/franciscoreyne/QGIS-Clasificacion-Imagenes-Satelitales-Dzetsaka/blob/master/espectros.png" /></a>
 
 
 ----------------------------------------------
