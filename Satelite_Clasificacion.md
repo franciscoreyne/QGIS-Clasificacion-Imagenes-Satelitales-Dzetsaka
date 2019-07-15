@@ -1,7 +1,8 @@
 # DISPONIBILIDAD DE DATOS SATELITALES Y CLASIFICACIÓN
 
 Hoy en dia disponer de datos satelitales es totalmente facil.
-Estamos hablando de datos sobre areas geograficas, imagenes satelitales en series temporales, 
+
+Estos datos corresponden a información sobre areas geograficas, imagenes satelitales en series temporales, 
 imagenes de muy alta resolución espacial e imagenes hiperepectrales.
 
 **Algunas de ellas son gratis a traves de programas de libre acceso
