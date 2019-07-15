@@ -37,7 +37,8 @@ llevada a cabo por los investigadores:
 
 
 # MANOS A LA OBRA: Acceder gratis a la Data Sentinel vía Descargas.
-**Existe posibilidad de acceder a la data de Sentinel. Lo único que necesitaremos es registrarnos en la plataforma del programa de Copernicus.
+
+**Existe posibilidad de acceder a la data de Sentinel. Lo único que necesitaremos es registrarnos en la plataforma del programa de Copernicus.**
 
         https://scihub.copernicus.eu/dhus/#/home
         
@@ -102,20 +103,20 @@ formato TIF.
 ----------------------------------------------
 # Opcion 3.
 ## Sentinel Hub. Archivo ZIP.
-**En SentinelHub podremos ver los distintos satelites y las bandas que combinan para cada color o vista.
+**En SentinelHub podremos ver los distintos satelites y las bandas que combinan para cada color o vista.**
 
           https://apps.sentinel-hub.com/eo-browser/?lat=25.1670&lng=55.2530&zoom=11
  ### Opciones dentro de SentinelHub.
  
-**Tenemos un Menú.
-** Elegiremos una zona de Dubai, en un día con baja Nubosidad.
+**Tenemos un Menú.**
+**Elegiremos una zona de Dubai, en un día con baja Nubosidad.**
 
     Search: Seleccionamos Sentinel 2, LC1. Del 2018 al 2019, 1 enero de cada año.
     Results: nos indica los Links de descarga. Elegimos un link de AWS o uno de Copernicus.
     Visualization: Previsualizamos nuestra elección.
     Pins
 
-*Si elegimos el link de AWS nos saldrá un link no interpretable por nuestro navegador web
+*Si elegimos el link de AWS nos saldrá un link no interpretable por nuestro navegador web*
 
         s3://sentinel-s2-l1c/tiles/39/R/ZH/2018/12/30/0
         
@@ -129,13 +130,13 @@ El link de copernicus nos descarga el mismo ZIP que en la opción 1. Por lo que 
 # OPCION GANADORA: Opción 2.
 # Remote Pixel. Archivos TIF.
 
-Una vez tengamos los archivos de imagen TIFF en bandas Red, Green y Blue las combinaremos en una sola para hacer nuestro
+Una vez tengamos los archivos de imagen TIF en bandas Red, Green y Blue las combinaremos en una sola para hacer nuestro
 aprendizaje automatico.
 
 # Combinación de BANDAS
 ## Instalamos MultiSpec.
-**MultiSpec nos permite combinar imagenes de distintas bandas. 
-*Nosotros uniremos las de las bandas RGB para tener una imagen en colores.
+**MultiSpec nos permite combinar imagenes de distintas bandas.** 
+*Nosotros uniremos las de las bandas* **RED, GREEN Y BLUE (RGB)** *para tener una imagen en colores.*
 
 Link de MultiSpec para su descarga:
 
@@ -146,14 +147,25 @@ En MultiSpec abrimos las tres imagenes al mismo tiempo. Se nos deberá abrir una
 **Guardamos el resultado como prueba_RGB en formato TIF.
 
 # Abrimos el TIF prueba_RGB en QGIS.
+
 # Generamos nuestro shapefile con nuestros propios ejemplos de clasificación. Yo hice figuras sobre el mar, zonas de tierra, construcciones y otras zonas de nada (representa el área negra o sin información de la imagen).
+
+<a href="https://github.com/franciscoreyne/QGIS-ML/blob/master/dubai.png"><img src="https://github.com/franciscoreyne/QGIS-ML/blob/master/dubai.png" /></a>
+
 # Hacemos la clasificación con Dzetsaka.
 
-# LISTO!!
-
+<a href="https://github.com/franciscoreyne/QGIS-ML/blob/master/dubai2.png"><img src="https://github.com/franciscoreyne/QGIS-ML/blob/master/dubai2.png" /></a>
 
 
 ------------------------------------------------
+------------------------------------------------
+# fin.
+
+**LISTO!!
+
+------------------------------------------------
+------------------------------------------------
+
 # SHAPEFILES GRILLAS SATELITES
 **Si Necesitamos tener los shapefiles para QGIS de las grillas de coordenadas del satelite.**
         http://bit.ly/GrillaSentinel2
