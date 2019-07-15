@@ -122,16 +122,26 @@ El link de copernicus nos descarga el mismo ZIP que en la opción 1. Por lo que 
 Una vez tengamos los archivos de imagen TIFF en bandas Red, Green y Blue las combinaremos en una sola para hacer nuestro
 aprendizaje automatico.
 
-## Inslatamos el MultiSpec
-https://engineering.purdue.edu/~biehl/MultiSpec/download_win.html
+# Combinación de BANDAS
+## Instalamos MultiSpec.
+**MultiSpec nos permite combinar imagenes de distintas bandas. 
+*Nosotros uniremos las de las bandas RGB para tener una imagen en colores.
 
-Abrimos las tres imagenes al mismo tiempo y guardamos como TIFF.
+Link de MultiSpec para su descarga:
 
-# Abrimos el TIFF guardado en QGIS.
-# Generamos nuestro shapefile con nuestros ejemplos de clasificación. Yo hice de mar, tierra, construcciones y Nada (representa el área negra o sin información).
+        https://engineering.purdue.edu/~biehl/MultiSpec/download_win.html
+
+## Combinación de varias imagenes TIF en una sola.
+En MultiSpec abrimos las tres imagenes al mismo tiempo. Se nos deberá abrir una sola imagen a colores. 
+**Guardamos el resultado como prueba_RGB en formato TIF.
+
+# Abrimos el TIF prueba_RGB en QGIS.
+# Generamos nuestro shapefile con nuestros propios ejemplos de clasificación. Yo hice figuras sobre el mar, zonas de tierra, construcciones y otras zonas de nada (representa el área negra o sin información de la imagen).
 # Hacemos la clasificación con Dzetsaka.
 
 # LISTO!!
+
+
 
 ------------------------------------------------
 # SHAPEFILES GRILLAS SATELITES
