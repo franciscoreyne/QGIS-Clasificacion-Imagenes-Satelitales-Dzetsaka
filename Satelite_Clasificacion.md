@@ -34,16 +34,6 @@ llevada a cabo por los investigadores:
 
 # CÓMO PARTIR EN EL ANALISIS DE DATOS SATELITALES.
 
-# Tutorial para descargar imagenes satelitales
-**Video Tutorial https://www.youtube.com/watch?v=3_Q96HzKt40** *Obs: Desactualizado. AWS es de pago ahora.
-
-----------------------------------------------
-# HOY: Productos disponibles para satelites sentinel
-## Aquí una hoja de información
-        https://sentinel.esa.int/documents/247904/1848117/Sentinel-2_Data_Products_and_Access
-### Lo que nos lleva a la pagina central del acceso a los datos.
-        https://sentinel.esa.int/web/sentinel/sentinel-data-access
-
 
 
 # MANOS A LA OBRA: Acceder gratis a la Data Sentinel vía Descargas.
@@ -51,16 +41,30 @@ llevada a cabo por los investigadores:
 
         https://scihub.copernicus.eu/dhus/#/home
         
-### Para más información:
-        https://scihub.copernicus.eu/
+
         
+
+
+----------------------------------------------
+# Productos disponibles HOY y gratis de satelites Sentinel
+----------------------------------------------
+----------------------------------------------
+## Info extra
+### Aquí una hoja de información
+        https://sentinel.esa.int/documents/247904/1848117/Sentinel-2_Data_Products_and_Access
+### Pagina central de acceso a los datos Sentinel.
+        https://sentinel.esa.int/web/sentinel/sentinel-data-access
+        
+## Tutorial para descargar imagenes satelitales
+**Video Tutorial https://www.youtube.com/watch?v=3_Q96HzKt40** *Obs: Desactualizado. AWS es de pago ahora.
+
 *Tambien existe la opcion de usar la data en la Nube. Ver **sentinel-data-access**.*
-
-
+### Más información:
+        https://scihub.copernicus.eu/
 ----------------------------------------------------------------
 
 
-# Descargando la data.
+# Descargando la Data.
 
 # Opcion 1.
 ## Copernicus. Archivo Zip.
@@ -94,7 +98,7 @@ formato TIF.
 
 ----------------------------------------------
 # Opcion 3.
-## Sentinel Hub. ZIP.
+## Sentinel Hub. Archivo ZIP.
 **En SentinelHub podremos ver los distintos satelites y las bandas que combinan para cada color o vista.
 
           https://apps.sentinel-hub.com/eo-browser/?lat=25.1670&lng=55.2530&zoom=11
