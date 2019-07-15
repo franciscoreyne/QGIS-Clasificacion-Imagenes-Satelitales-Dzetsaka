@@ -27,10 +27,10 @@ llevada a cabo por los investigadores:
     
 ### Temas vistos:
 
-    Spatial, 
-    Temporal and spectral feature extraction, 
-    Data-driven feature extraction, 
-    Classification of multimodal remote sensing data for any thematic application (urban, agricultural or ecological ones) and for any scales, from locals to global ones.
+ >  Spatial, 
+   > Temporal and spectral feature extraction, 
+  >  Data-driven feature extraction, 
+  >  Classification of multimodal remote sensing data for any thematic application (urban, agricultural or ecological ones) and for any scales, from locals to global ones.
 
 # CÓMO PARTIR EN EL ANALISIS DE DATOS SATELITALES.
 
@@ -53,11 +53,13 @@ llevada a cabo por los investigadores:
 
 
 # Descargando la Data.
+## Lee primero cada una de las tres opciones que mostraré a continuación, antes de elegir la que más se acomode a lo que quieres hacer.
+
 
 # Opcion 1.
 ## Copernicus. Archivo Zip.
 
-*En copernicus nos dirigimos a la área que nos interese y ponemos buscar.
+*En copernicus nos dirigimos a la zona o área geografica que nos interese y persionamos sobre el boton de Buscar.*
         
         https://scihub.copernicus.eu/dhus/#/home
         
@@ -108,7 +110,8 @@ formato TIF.
 
         s3://sentinel-s2-l1c/tiles/39/R/ZH/2018/12/30/0
         
-El link de copernicus nos descarga el mismo ZIP que en la opción 1. Por lo que no tiene gran utilidad esta tercera opción por el momento.
+*Si elegimos el link de Copernicus, se nos descargará el mismo ZIP que en la Opción 1.* 
+**Por lo que no tiene gran utilidad esta tercera opción por el momento.**
 
 
 -----------------------------------------------
@@ -147,9 +150,8 @@ En MultiSpec abrimos las tres imagenes al mismo tiempo. Se nos deberá abrir una
 
 ------------------------------------------------
 ------------------------------------------------
-# fin.
-
-**LISTO!!
+# El fin.
+# The End.
 
 ------------------------------------------------
 ------------------------------------------------
