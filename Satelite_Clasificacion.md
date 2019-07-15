@@ -125,8 +125,13 @@ aprendizaje automatico.
 ## Inslatamos el MultiSpec
 https://engineering.purdue.edu/~biehl/MultiSpec/download_win.html
 
+Abrimos las tres imagenes al mismo tiempo y guardamos como TIFF.
 
+# Abrimos el TIFF guardado en QGIS.
+# Generamos nuestro shapefile con nuestros ejemplos de clasificación. Yo hice de mar, tierra, construcciones y Nada (representa el área negra o sin información).
+# Hacemos la clasificación con Dzetsaka.
 
+# LISTO!!
 
 ------------------------------------------------
 # SHAPEFILES GRILLAS SATELITES
