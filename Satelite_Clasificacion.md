@@ -69,8 +69,11 @@ llevada a cabo por los investigadores:
 # Opcion 1.
 ## Copernicus. Archivo Zip.
 
-**En copernicus nos dirigimos a la área que nos interese y ponemos buscar.
-*Importante fijarse en el tamaño de los archivos que descarguemos. Hay de 7Gb, 800Mb, 600Mb.
+*En copernicus nos dirigimos a la área que nos interese y ponemos buscar.
+        
+        https://scihub.copernicus.eu/dhus/#/home
+        
+**Importante fijarse en el tamaño de los archivos que descarguemos. Hay de 7Gb, 800Mb, 600Mb.
 ###Debemos presionar sobre el link "Download URL".
 
 **Ejemplo de selección:
