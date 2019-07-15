@@ -166,6 +166,14 @@ En MultiSpec abrimos las tres imagenes al mismo tiempo. Se nos deberá abrir una
 ------------------------------------------------
 ------------------------------------------------
 
+# Próximo desafio:
+*Ver la reducción de hielos glaciares. Zona central Chile.
+Buscar impactos principales del Climate Change en Chile, evaluar que dicen las imagenes.
+*
+
+------------------------------------------------
+------------------------------------------------
+
 # SHAPEFILES GRILLAS SATELITES
 **Si Necesitamos tener los shapefiles para QGIS de las grillas de coordenadas del satelite.**
         http://bit.ly/GrillaSentinel2
