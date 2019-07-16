@@ -110,8 +110,18 @@ formato TIF.
     BQA - Quality Assessment
     MTL - Metadata
 
+**Más detalles sobre las bandas espectrales y sus resoluciones, en:**
+    
+    https://earth.esa.int/web/sentinel/user-guides/sentinel-2-msi/resolutions/spatial
+
+*En resumen:*
+**Bandas 10m de resolucion: B2 (490 nm), B3 (560 nm), B4 (665 nm) y B8 (842 nm).**
+**Bandas 20m de resolucion: B5 (705 nm), B6 (740 nm), B7 (783 nm), B8a (865 nm), B11 (1610 nm) y B12 (2190 nm).**
+**Bandas 60m de resolucion: B1 (443 nm), B9 (940 nm) and B10 (1375 nm).**
+
 
 <a href="https://github.com/franciscoreyne/QGIS-Clasificacion-Imagenes-Satelitales-Dzetsaka/blob/master/espectros.png"><img src="https://github.com/franciscoreyne/QGIS-Clasificacion-Imagenes-Satelitales-Dzetsaka/blob/master/espectros.png" /></a>
+
 
 
 ----------------------------------------------
