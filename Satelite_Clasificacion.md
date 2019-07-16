@@ -196,6 +196,7 @@ En MultiSpec abrimos las tres imagenes al mismo tiempo. Se nos deberá abrir una
 *Ver la alteracion de Humedales en zona central*
 __Ver la alteración de Humedales Ramsar__
 **Buscar impactos del Cambio Climático o Climate Change en Chile.**
+https://www.gisagents.org/
 
 ------------------------------------------------
 ------------------------------------------------
