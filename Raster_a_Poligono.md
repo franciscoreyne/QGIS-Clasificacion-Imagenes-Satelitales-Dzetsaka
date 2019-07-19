@@ -1,21 +1,35 @@
-# Como pasar de raster a Poligono
-## hecho en base a:
-https://docs.qgis.org/2.18/es/docs/training_manual/complete_analysis/raster_to_vector.html
-
->CONVERSION DE RASTER A VECTORIAL
-
->Convertir entre formatos ráster y vectoriales te *permite utilizar ambos tipos de datos* cuando resuelves un problema SIG, así como *utilizar* los diferentes **métodos analíticos específicos de cada uno** de los dos formatos de datos geográficos.
+# Como calcular las hectareas de cada categoria de nuestra clasificacion
 
 
+## Buscamos que tengamos instalado el complemento "Processing". Si no, debemos activarlo.
+# Luego, vamos a :
+
+    Procesos ‣ Caja de Herramientas ‣ GRASS ‣ Ráster ‣ r.report (hacemos doble click)
+> 
 >  
->  
->La Herramienta Ráster a vectorial
+> Seleccionamos nuestra imagen tiff generada con nuestra clasificación. 
 
-### sIGUIENDO nuestros datos del ejemplo de Dubai:
+Debemos indicar para los parámetros de la ventana del r.report, los siguientes valores:
+     
+     Raster layer(s) to report on //nuestra imagen
+     Unidades //h, para hectareas
+     Lo demas lo dejamos por defecto y creamos un archivo para nuestros resultados.
+     
+### Una vez finalizado nos dejará un archivo con nuestros resultados.
+## abrir el .txt en excel como archivo delimitado por comas, con delimitador |.
+**Ahí nos indicará nuestra área para cada categoría. Con estos datos podremos hacer nuestros analisis estadísticos.+
 
-Ubicamos nuestro archivo Tiff de la clasificación del territorio.
-Hacer click en: 
+
+#FIN.
+     
+
     
-    Ráster ‣ Conversión ‣ Poligonizar (Ráster a vectorial Vector)
 
-Se abrirá el cuadro de dialogo de la herramienta.
+
+
+
+
+
+
+
+
