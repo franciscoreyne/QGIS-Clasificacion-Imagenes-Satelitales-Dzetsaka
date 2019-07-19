@@ -24,7 +24,7 @@
 **Ahí nos indicará nuestra área para cada categoría. Con estos datos podremos hacer nuestros analisis estadísticos.**
 
 
-#FIN.
+# El FIN.
      
 
     
