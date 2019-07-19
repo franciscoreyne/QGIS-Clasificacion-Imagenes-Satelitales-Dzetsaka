@@ -8,16 +8,20 @@
 > 
 >  
 > Seleccionamos nuestra imagen tiff generada con nuestra clasificación. 
-
-Debemos indicar para los parámetros de la ventana del r.report, los siguientes valores:
+>
+> Debemos indicar para los parámetros de la ventana del r.report, los siguientes valores:
+>     
+>     Raster layer(s) to report on //seleccionamos nuestra imagen Tiff con nuestra clasificación.
+>     Unidades //sleccionamos h para hectareas
      
-     Raster layer(s) to report on //nuestra imagen
-     Unidades //h, para hectareas
+     
      Lo demas lo dejamos por defecto y creamos un archivo para nuestros resultados.
      
-### Una vez finalizado nos dejará un archivo con nuestros resultados.
+     
+     
+### Una vez finalizado nos dejará un archivo txt con nuestros resultados.
 ## abrir el .txt en excel como archivo delimitado por comas, con delimitador |.
-**Ahí nos indicará nuestra área para cada categoría. Con estos datos podremos hacer nuestros analisis estadísticos.+
+**Ahí nos indicará nuestra área para cada categoría. Con estos datos podremos hacer nuestros analisis estadísticos.**
 
 
 #FIN.
