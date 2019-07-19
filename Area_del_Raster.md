@@ -1,10 +1,13 @@
-# Como calcular las hectareas de cada categoria de nuestra clasificacion
+# ¿Cómo calcular las hectareas de cada categoria de nuestra clasificacion?
+Ya tenemos nuestras imagenes satelitales con sus áreas clasificadas, pero ahora queremos hacer comparaciones temporales.
+**Para hacer estas comparaciones calcularemos las áreas de cada categoría clasificada autmaticamente con Dzetsaka.**
+### *Así veremos cómo varía cada categoria en el tiempo.*
 
 
 ## Buscamos que tengamos instalado el complemento "Processing". Si no, debemos activarlo.
 # Luego, vamos a :
 
-    Procesos ‣ Caja de Herramientas ‣ GRASS ‣ Ráster ‣ r.report (hacemos doble click)
+    Procesos ‣ Caja de Herramientas ‣ GRASS ‣ Ráster ‣ r.report (hacemos doble click).
 > 
 >  
 > Seleccionamos nuestra imagen tiff generada con nuestra clasificación. 
@@ -25,15 +28,3 @@
 
 
 # El FIN.
-     
-
-    
-
-
-
-
-
-
-
-
-
