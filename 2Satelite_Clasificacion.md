@@ -192,15 +192,10 @@ En MultiSpec abrimos las tres imagenes al mismo tiempo. Se nos deberá abrir una
 
 # Próximos desafios:
 ## Calcular el área de cada categoria clasificada: 
-## https://github.com/franciscoreyne/QGIS-Clasificacion-Imagenes-Satelitales-Dzetsaka/blob/master/Area_del_Raster.md
+## https://github.com/franciscoreyne/QGIS-Clasificacion-Imagenes-Satelitales-Dzetsaka/blob/master/3Area_del_Raster.md
 
 
-# otros Próximos desafios:
-*Ver la reducción de hielos glaciares. Zona central Chile.*
-*Ver la alteracion de Humedales en zona central*
-__Ver la alteración de Humedales Ramsar__
-**Buscar impactos del Cambio Climático o Climate Change en Chile.**
-https://www.gisagents.org/
+
 
 ------------------------------------------------
 ------------------------------------------------
