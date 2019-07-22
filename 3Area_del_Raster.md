@@ -32,4 +32,15 @@ Ya tenemos nuestras imagenes satelitales con sus áreas clasificadas, pero ahora
 ## pROximas Misiones
 
 https://github.com/msgeocss/intro_spatial_abm
+https://www.gisagents.org/
 https://github.com/earthlab/earthpy
+
+# otros Próximos desafios:
+*Ver la reducción de hielos glaciares. Zona central Chile.*
+*Ver la alteracion de Humedales en zona central*
+__Ver la alteración de Humedales Ramsar__
+**Buscar impactos del Cambio Climático o Climate Change en Chile.**
+
+
+
+
