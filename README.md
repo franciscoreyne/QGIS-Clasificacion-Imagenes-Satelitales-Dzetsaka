@@ -155,7 +155,7 @@ Forest 1 verde. Agriculture 2 cafe. Grey 3 gris. Water 4 celeste. Buildings 5 ne
 https://carbajallosa.blogspot.com/2017/07/
 
 # IR A LA SIGUIENTE MISIÓN:
-https://github.com/franciscoreyne/QGIS-Clasificacion-Imagenes-Satelitales-Dzetsaka/blob/master/Satelite_Clasificacion.md
+https://github.com/franciscoreyne/QGIS-Clasificacion-Imagenes-Satelitales-Dzetsaka/blob/master/2Satelite_Clasificacion.md
 
 ---------------------------------------
 ## **(OPCIONAL) **
