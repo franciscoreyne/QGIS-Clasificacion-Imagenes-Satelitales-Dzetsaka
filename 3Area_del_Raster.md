@@ -35,6 +35,8 @@ https://github.com/msgeocss/intro_spatial_abm
 https://www.gisagents.org/
 https://github.com/earthlab/earthpy
 
+más en:
+https://www.earthdatascience.org/
 # otros Próximos desafios:
 *Ver la reducción de hielos glaciares. Zona central Chile.*
 *Ver la alteracion de Humedales en zona central*
