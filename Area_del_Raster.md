@@ -29,6 +29,7 @@ Ya tenemos nuestras imagenes satelitales con sus áreas clasificadas, pero ahora
 
 # El FIN.
 
-## pROxima Mision
+## pROximas Misiones
 
 https://github.com/msgeocss/intro_spatial_abm
+https://github.com/earthlab/earthpy
